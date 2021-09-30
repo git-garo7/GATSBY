@@ -1,3 +1,7 @@
+#node_modules por poder instalar novamente e o gatsby-ssr.js(por não precisar utilizar renderização do lado do servidor
+node_modules
+
+gatsby-ssr.js
 # Logs
 logs
 *.log
