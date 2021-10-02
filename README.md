@@ -4,7 +4,8 @@
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
   </a>
   <p>
-    PRIMEIRO CONTATO COM GATSBY,ESTOU APRIMORANDO COM TEMPO,LOGO POSTO MAIS COM DESCRIÇÕES MELHORES...
+    PRIMEIRO CONTATO COM GATSBY,ESTOU APRIMORANDO COM TEMPO,LOGO POSTO MAIS COM DESCRIÇÕES MELHORES...(primeiro contato com gatsby,alterei o h1 inicial (index.js)pra"HELLO WORLD" e excluí o arquivo gatsby-ssr.js, por hora não irei utilizar a renderização pelo lado do servidor...)
+
     </p>
 </p>
 <h1 align="center">
