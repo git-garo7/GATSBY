@@ -3,6 +3,9 @@
   <a href="https://www.gatsbyjs.com">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
   </a>
+  <p>
+    PRIMEIRO CONTATO COM GATSBY,ESTOU APRIMORANDO COM TEMPO,LOGO POSTO MAIS COM DESCRIÇÕES MELHORES...
+    </p>
 </p>
 <h1 align="center">
   Gatsby's default starter
